@@ -1,5 +1,5 @@
-/**************** about css start ****************/
-.about_part{
+/**************** nosotros css start ****************/
+.nosotros_part{
     position: relative;
     z-index: 1;
     padding: 170px 0px 80px;
@@ -40,8 +40,8 @@
     @media #{$medium_device}{
         padding: 100px 0 0;
     }
-    .about_img{
-        background-image: url(../img/about_overlay.png);
+    .nosotros_img{
+        background-image: url(../img/nosotros_overlay.png);
         background-repeat: no-repeat;
         background-position: left;
         position: relative;
@@ -49,17 +49,17 @@
         height: 549px;
         @media #{$small_mobile}{
             height: 500px;
-            background-image: url(../img/about_img_1.png);
+            background-image: url(../img/nosotros_img_1.png);
             background-size: cover;
         }
         @media #{$large_mobile}{
             height: 500px;
-            background-image: url(../img/about_img_1.png);
+            background-image: url(../img/nosotros_img_1.png);
             background-size: cover;
         }
         @media #{$tab_device}{
             height: 500px;
-            background-image: url(../img/about_img_1.png);
+            background-image: url(../img/nosotros_img_1.png);
             background-size: cover;
         }
         @media #{$medium_device}{
@@ -177,7 +177,7 @@
             }
         }
     }
-    .about_text{
+    .nosotros_text{
         padding-left: 63px;
         @media #{$small_mobile}{
             padding-left: 0px;
@@ -281,13 +281,13 @@
     @media #{$medium_device}{
     
     }
-    .about_text {
+    .nosotros_text {
         h2{
             margin-bottom: 20px;
         }
     }
 }
-.about_padding{
+.nosotros_padding{
     padding: 180px 0px;
     @media #{$small_mobile}{
         padding: 70px 0px;
