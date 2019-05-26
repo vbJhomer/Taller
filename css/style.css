@@ -2616,7 +2616,7 @@ ul {
     z-index: 9999 !important;
     position: absolute;
     left: 0;
-    top: 71px;
+    top: 150px;
     width: 100%;
     background-color: #fff;
     text-align: center !important;
@@ -2669,7 +2669,7 @@ ul {
     z-index: 9999 !important;
     position: absolute;
     left: 0;
-    top: 71px;
+    top: 150px;
     width: 100%;
     background-color: #fff;
     text-align: center !important;
@@ -2714,7 +2714,7 @@ ul {
     z-index: 9999 !important;
     position: absolute;
     left: 0;
-    top: 71px;
+    top: 150px;
     width: 100%;
     background-color: #fff;
     text-align: center !important;
@@ -3120,7 +3120,7 @@ ul {
 /* line 2, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_cta_part.scss */
 .cta_part {
   text-align: center;
-  padding: 132px 0px 74px;
+  padding: 132px 0px 30px;
 }
 
 @media (max-width: 576px) {
