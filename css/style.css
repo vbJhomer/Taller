@@ -4064,12 +4064,12 @@ ul {
 /* line 26, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_service.scss */
 .service_part .single_service_part_iner span {
   background-color: #586779;
-  width: 61px;
-  height: 61px;
-  font-size: 40px;
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
   display: inline-block;
   border-radius: 50%;
-  line-height: 75px;
+  line-height: 90px;
   color: #fff;
   margin-bottom: 30px;
   -webkit-transition: 0.6s;
